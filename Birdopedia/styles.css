@@ -1,0 +1,31 @@
+body {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+body #header {
+    background-color: #e5ecd5;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: #9b8b78;
+    font-size: 17px;
+}
+
+nav p {
+    display: inline-block;
+    font-size: 20px;
+    padding: 0 10px;
+    text-decoration: underline dotted;
+}
+
+nav p:hover {
+    cursor: pointer;
+    color: grey;
+}
+
+
+#navigation {
+    border-bottom: 1px solid lightgrey
+}
