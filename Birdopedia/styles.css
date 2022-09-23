@@ -2,6 +2,7 @@ body {
     width: 600px;
     margin: auto;
     text-align: center;
+    border-bottom: 1px solid lightgrey;
 }
 
 body #header {
