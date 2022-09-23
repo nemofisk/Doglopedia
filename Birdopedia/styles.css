@@ -2,7 +2,6 @@ body {
     width: 600px;
     margin: auto;
     text-align: center;
-    border-bottom: 1px solid lightgrey;
 }
 
 body #header {
@@ -47,5 +46,11 @@ nav {
 #information {
     text-align: left;
     font-size: 18px;
+    border-bottom: 1px solid lightgrey;
+}
+
+footer {
+    padding: 20px;
+    font-size: 20px;
 }
 
