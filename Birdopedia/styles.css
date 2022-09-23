@@ -25,6 +25,11 @@ nav p:hover {
     color: grey;
 }
 
+nav p:active {
+    cursor: pointer;
+    color: #757575;
+}
+
 
 nav {
     border-bottom: 1px solid lightgrey
