@@ -26,7 +26,7 @@ nav p:hover {
 }
 
 
-#navigation {
+nav {
     border-bottom: 1px solid lightgrey
 }
 
@@ -47,3 +47,4 @@ nav p:hover {
     text-align: left;
     font-size: 18px;
 }
+
